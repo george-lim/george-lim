@@ -1,35 +1,15 @@
-# Basic Template
+# 🔥 George Lim 🔥
 
-[![releases](https://img.shields.io/github/v/release/george-lim/basic-template)](https://github.com/george-lim/basic-template/releases)
-[![ci](https://github.com/george-lim/basic-template/workflows/CI/badge.svg)](https://github.com/george-lim/basic-template/actions)
-[![license](https://img.shields.io/github/license/george-lim/basic-template)](https://github.com/george-lim/basic-template/blob/main/LICENSE)
+[![linkedin](https://img.shields.io/badge/LinkedIn-george--lim-blue)](https://www.linkedin.com/in/george-lim)
+[![product hunt](https://img.shields.io/badge/Product%20Hunt-%40georgelim-orange)](https://www.producthunt.com/@georgelim)
+[![website](https://img.shields.io/badge/Website-george--lim.github.io-lightgrey)](https://george-lim.github.io)
+[![resume](https://img.shields.io/badge/Resume-PDF-red)](https://github.com/george-lim/resume/releases/latest/download/george-lim-resume.pdf)
 
-## [Usage](#usage) | [Features](#features) | [Examples](#examples) | [CI/CD](#cicd)
+## [Email](mailto:lim.george@me.com) | [Telegram](http://t.me/limgeorge) | [Telegram Bot](https://t.me/NepheleBot)
 
-Basic Template is a template repository that provides basic CI/CD workflows.
+I'm all about pursuring **clean code**, **simple architecture**, and an **organized lifestyle**.
+Everything about my professional life is documented on [LinkedIn](https://www.linkedin.com/in/george-lim) and summarized in my [resume](https://github.com/george-lim/resume/releases/latest/download/george-lim-resume.pdf).
+All of my programming projects are available on [GitHub](https://github.com/george-lim?tab=repositories).
+If that's too many links for you, my [website](https://george-lim.github.io) is literally an App Store for all the links that are relevant to me.
 
-## Usage
-
-Choose `george-lim/basic-template` as the template when creating a new repository.
-
-## Features
-
-Basic Template provides a `README.md`, `LICENSE` and two workflows for GitHub Actions.
-
-## Examples
-
-There are no examples to provide for Basic Template.
-
-## CI/CD
-
-### Pipeline
-
-There are two workflows in this repository. Each workflow supports manual triggering.
-
-The `CI` workflow is automatically triggered whenever there is push activity in `main` or pull request activity towards `main`. It has one job:
-
-1. Lint the codebase with GitHub's [Super-Linter](https://github.com/github/super-linter).
-
-The `CD` workflow is automatically triggered whenever there is a tag pushed to the repository. It has one job:
-
-1. Create a GitHub release with the tag.
+[Nephele](https://github.com/george-lim/nephele) is my ultimate GitHub project. It hosts all of my cloud-compatible side projects and it is _loaded_ with **buzz words** and **best practices** 😂 Feel free to check it - or any one of my other projects out!
