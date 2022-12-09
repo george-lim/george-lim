@@ -7,7 +7,7 @@
 
 ## [Email](mailto:lim.george@me.com) | [Telegram](http://t.me/limgeorge) | [Telegram Bot](https://t.me/NepheleBot)
 
-I'm all about pursuring **clean code**, **simple architecture**, and an **organized lifestyle**.
+I'm all about pursuing **clean code**, **simple architecture**, and an **organized lifestyle**.
 Everything about my professional life is documented on [LinkedIn](https://www.linkedin.com/in/george-lim) and summarized in my [resume](https://github.com/george-lim/resume/releases/latest/download/george-lim-resume.pdf).
 All of my programming projects are available on [GitHub](https://github.com/george-lim?tab=repositories).
 If that's too many links for you, my [website](https://george-lim.github.io) is literally an App Store for all the links that are relevant to me.
